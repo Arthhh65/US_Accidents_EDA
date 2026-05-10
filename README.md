@@ -73,4 +73,4 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ## Author
 Arth Joshi  
-Exploring data. Breaking assumptions. Building models next.
+Exploring data. Breaking assumptions. Building models  next.
